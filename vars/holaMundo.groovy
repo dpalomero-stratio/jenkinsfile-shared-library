@@ -1,5 +1,5 @@
 def call(String s) {
-  for (String s = "ya"){
+  for (String s == "ya"){
     echo "Hola Mundo"
   }
 
