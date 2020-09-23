@@ -1,5 +1,5 @@
-def call(int i) {
-  if (int i == 21){
+def call(int i=0) {
+  if (i == 21){
     echo "Hola Mundo"
   }
 
